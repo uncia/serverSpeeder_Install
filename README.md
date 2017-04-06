@@ -54,6 +54,7 @@ wget -O apx.lic http://serverspeeder.azurewebsites.net/lic?mac=$(ifconfig |grep 
 -----------------------------      
 -----------------------------   
 For Linux.
+```
 —–
 *.从根本原因上解决断流问题,断流的根本原因是没有完整破解验证机制.
 *.锐速启动脚本不规范,修正Debian/Ubuntu不能正常自启动.
@@ -98,3 +99,4 @@ wget --no-check-certificate -qO /tmp/appex.sh "https://raw.githubusercontent.com
 重新启动 /appex/bin/serverSpeeder.sh restart
 调教手册:
 https://github.com/0oVicero0/serverSpeeder_Install/blob/master/lotServer.pdf
+```
